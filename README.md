@@ -1,126 +1,82 @@
-[![Version][version-shield]](version-url)
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-<center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Discord-Bot&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
-
-<br />
-
-[![Run on Repl.it](https://repl.it/badge/github/CorwinDev/Discord-Bot)](https://replit.com/@CorwinDeveloper/Discord-Bot-v14?v=1)
-[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/CorwinDev/Discord-Bot)
-
-<!-- PROJECT LOGO -->
-<br />
 <p align="center">
-  <a href="https://github.com/corwindev/Discord-Bot">
-    <img src="https://cdn.discordapp.com/attachments/778665159316209748/1055857473749274694/Corwin-1-modified.png" alt="Pbot-plus" width="200" height="200">
-  </a>
-
-  <h3 align="center">Discord-Bot</h3>
-
-  <p align="center">
-    Discord-bot is an updated version of <a href="https://github.com/DotwoodMedia/Dbot">Dbot</a>, an advanced Discord multipurpose bot containing more than 400 commands.<br> It can do Moderation, Tickets, Radio, Games, Giveaways, Customisation, Economy, Leveling, Invites, Messages, Utilities, Suggestions, Server Stats etc.<br> Unfortunately the owners stopped at the peak and decided to put the source online of which I made an updated version.
-    <br />
-    <br />
-    <a href="https://github.com/corwindev/discord-bot/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/corwindev/discord-bot/issues">Request Feature</a>
-  </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nanotect&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/> </a> 
 </p>
 
-<!-- NOTICE -->
-
-### <img src="https://cdn.discordapp.com/emojis/1055803759831294013.png" width="20px" height="20px"> 》Notice 
-> You may not claim this as your own! The original source was created by [Dotwood Media](https://github.com/DotwoodMedia) and [Graphix Development](https://github.com/GraphixDevelopment). The source is modified and updated by me(CorwinDev)
-
-> Discord-Bot is a multipurpose Discord bot base in [Discord.js](https://github.com/Discordjs/discordjs)
-If you like this repository, feel free to leave a star ⭐ to motivate me!
-
-<!-- ABOUT THE PROJECT -->
-
-## <img src="https://cdn.discordapp.com/emojis/859424401186095114.png" width="20px" height="20px">》Description 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=corwindev&repo=Discord-bot&theme=tokyonight)](https://github.com/corwindev/Discord-bot)
-## <img src="https://cdn.discordapp.com/emojis/852881450667081728.gif" width="20px" height="20px">》Feature
-- [x] Slash Commands 
-- [x] Upto date with Discord.js v14
-- [x] Automod
-- [x] Custom Commands
-- [x] Music Commands
-- [x] Tickets
-- [x] Utility Commands
-- [x] Suggestions 
-- [x] Reaction Roles
-- [x] Family
-- [x] Giveaways 
-- [x] Easy to use
-- [x] Customizable
-- [x] And much more
-- [x] Don't wanna host it yourself? [Use our public bot](https://discord.com/api/oauth2/authorize?client_id=860390761307439114&permissions=8&scope=bot%20applications.commands)
-## <img src="https://cdn.discordapp.com/emojis/1028680849195020308.png" width="25px" height="25px">》Screenshots
-<br />
-<p align="center">
-  <a href="https://github.com/corwindev/discord-bot">
-    <img src="https://cdn.discordapp.com/attachments/778665159316209748/1055832339328024666/207117434-d98356b1-bf19-418e-9e12-0ef83e0d9a21.png">
-  </a>
+<p align="center"> 
+  <a href="https://ko-fi.com/S6S2BGP40" target="_blank"> <img src="https://ko-fi.com/img/githubbutton_sm.svg"/> </a> 
 </p>
 
-## <img src="https://cdn.discordapp.com/emojis/1009754836314628146.gif" width="25px" height="25px">》Requirements
-- NodeJs v17+
-- Java v13 for lavalink server.
-- Discord Token. Get it from [Discord Developers Portal](https://discord.com/developers/applications)
-- Mongo Database URL. Get it from [MongoDB](https://cloud.mongodb.com/v2/635277bf9f5c7b5620db28a4#clusters)
-- Giphy API Token. Get it from [Giphy Developers Portal](https://developers.giphy.com/)
-- OpenAI API Key `for ai chatbot`. Get it from [OpenAi Developers Portal](https://beta.openai.com/account/api-keys)
-- ClientID `for loading slash commands.` [Discord Developers Portal](https://discord.com/developers/applications)
-- Spotify client ID `for Spotify support` [Click here to get](https://developer.spotify.com/dashboard/login)
-- Spotify client Secret `for Spotify support` [Click here to get](https://developer.spotify.com/dashboard/login)
+<p align="center">
 
-## <img src="https://cdn.discordapp.com/emojis/814216203466965052.png" width="25px" height="25px">》Installation Guide
+<a href="https://dsc.bio/nanotect">
+  <img src="https://lanyard-profile-readme.vercel.app/api/515490955801919488?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." />
+</a>
 
-### <img src="https://cdn.discordapp.com/emojis/1028680849195020308.png" width="15px" height="15px"> Installing via [NPM](https://www.npmjs.com/)
-Clone the repo by running
-```bash
-git clone https://github.com/Corwindev/Discord-Bot.git
-```
-### After cloning Fill all requirement in `.env` **(rename `.env.example` to `.env`)**, then run
+<p align="center"> 
+  <a href="https://discord.gg/SNG3dh3MbR" target="_blank"> <img src="https://discordapp.com/api/guilds/903043706410643496/widget.png?style=banner2"/> </a> 
+</p>
 
-```bash
-npm install
-```
-To start your bot 
+<p align="center"> 
+<a href="https://osu.ppy.sh/users/21216709">
+  <img src="https://osu-sig.vercel.app/card?user=Suntury&mode=std&lang=en&blur=2&animation=true&hue=159&skills=true" />
+</a>
+</p>
+  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Adivise&label=Profile%20Views&color=008042&style=for-the-badge&label=Prefile+Views" alt="Prefile Views"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=008042&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Adivise" alt="Profile Stars"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=008042&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Adivise" alt="Profile Forks"></a>
+</div>
 
-```js
-node src/index.js
-```
+</p>
 
-## <img src="https://cdn.discordapp.com/emojis/1036083490292244493.png" width="15px" height="15px">》Support Server
-[![DiscordBanner](https://invidget.switchblade.xyz/techpoint-1016942011024158782)](https://discord.gg/techpoint-1016942011024158782)
+<figure><embed src="https://wakatime.com/share/@Adivise/a411e44c-56cb-4bf2-b9fd-da75e36b48c0.svg"></embed></figure>
 
-[Support Server](https://discord.gg/techpoint-1016942011024158782) - Discord-Bot's Support Server Invite
+## 🙋‍♂️ About Me
 
-# <img src="https://cdn.discordapp.com/emojis/1015745034076819516.png" width="25px" height="25px">》Faq
-> How to get access to Developers Commands? You will have to set them up via MongoDB or run the below command.
+- 🌱 I’m Full Stack **Discord.JS**
 
-```bash
-npm run add-dev YOUR_Discord_ID
-```
-# Donate
+- ⚡ Fun fact **play games, read manga, watch anime, streaming**
 
- By Donating, You Will Help Me To Maintain This Project 
+## 🚀 Languages
 
-<img src="https://cdn.discordapp.com/emojis/809085860632985630.png" width="15px" height="15px"> 》[Sponsor](https://github.com/sponsors/CorwinDev)
+<p align="center"> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
+</p>
 
-[version-shield]: https://img.shields.io/github/package-json/v/CorwinDev/Discord-Bot?style=for-the-badge
-[version-url]: https://github.com/brblacky/WaveMusic
-[contributors-shield]: https://img.shields.io/github/contributors/CorwinDev/Discord-Bot.svg?style=for-the-badge
-[contributors-url]: https://github.com/Corwindev/Discord-Bot/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Corwindev/Discord-Bot.svg?style=for-the-badge
-[forks-url]: https://github.com/Corwindev/Discord-Bot/network/members
-[stars-shield]: https://img.shields.io/github/stars/Corwindev/Discord-Bot.svg?style=for-the-badge
-[stars-url]: https://github.com/Corwindev/Discord-Bot/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Corwindev/Discord-Bot.svg?style=for-the-badge
-[issues-url]: https://github.com/Corwindev/Discord-Bot/issues
-[license-shield]: https://img.shields.io/github/license/Corwindev/Discord-Bot.svg?style=for-the-badge
-[license-url]: https://github.com/Corwindev/Discord-Bot/blob/master/LICENSE
+<p align="center"> 
+    <a href="https://gitlift.com/user/adivise" target="_blank"> <img src="https://img.shields.io/badge/Gitlift-Determined-f57f17?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAA/1BMVEUAAAD1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf///8hPsr3AAAAU3RSTlMAABW5kgobaKvsgQgar/NTgPmDrZ9gmOcGAgkEOuSurFrOxxNKcWMnAVfpo/rPNlwDWOicuNQHHGke6zU9eFsNQS9GPDJreUUSLFUFR1F1EGR7b+rfKSYAAACiSURBVHjaTckDGkNREEPhSW3btm3b7d3/Wur2zfmYP0QEmVyhBP0CVGqNVqfHHwxGk9litf3FYBfC4XS5bR7A61P6KRAUIhSORGNxIJFMpSmTzQldvlAsASinPRVCplqrN5oltNrtThdEL+k1+8BgWB6NX0DwTqYAZnPQP+gX/WWAQ3q1nm04bHd87Q/HpZnD5jTdnv8AZGQXL/8NnesNEjwASCETZucT9uAAAAAASUVORK5CYII="/> </a> 
+</p>
+
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img title=🔥 src="https://github-readme-streak-stats.herokuapp.com/?user=Adivise&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+<div align="center">
+  <a href="https://github.com/Adivise">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adivise&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adivise&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<p align="center"> 
+  <a href="https://open.spotify.com/user/npafm70eecxoqgqhrvrvo73n4" target="_blank"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=npafm70eecxoqgqhrvrvo73n4"/> </a> 
+</p>
+
+<div align="center">
+  
+  <img src="https://raw.githubusercontent.com/ImJustNon/ImJustNon/output/snake.svg" alt="Snake animation" />
+  
+</div>
+
+## 🌟 Social Media:
+
+<div align="center"> 
+
+  <a href="https://www.youtube.com/channel/UC32Ji8C33pBGm2CpBgBvSCA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/nanotect_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
+ 
+</div>
